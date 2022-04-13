@@ -1,0 +1,58 @@
+@import "https://fonts.googleapis.com/css?family=Ubuntu";
+
+body {
+  background-color: black;
+}
+
+.titulo {
+  background-color: #333;
+  width: 500px;
+  margin: 0 auto;
+  text-align: center;
+  color: #fff;
+}
+
+.contenido {
+  text-align: center;
+  color: #fff;
+  border-radius: 15px;
+  border-style: solid;
+  width: 500px;
+  margin: 0 auto;
+  background-color: #333;
+}
+
+#numero1 {
+  border-radius: 5px;
+  font-family: "Ubuntu", sans-serif;
+  text-align: center;
+  font-weight: bold;
+}
+
+#numero2 {
+  border-radius: 5px;
+  font-family: "Ubuntu", sans-serif;
+  text-align: center;
+  font-weight: bold;
+}
+
+#botonCalcular {
+  border-radius: 50px;
+  background-color: #fff;
+  font-family: "Ubuntu", sans-serif;
+  font-weight: bold;
+}
+
+.resultados {
+  text-align: center;
+  background-color: #333;
+  border-color: #fff;
+  font-size: 15px;
+}
+
+.resultados button {
+  border-radius: 50px;
+  background-color: #fff;
+  font-family: "Ubuntu", sans-serif;
+  font-weight: bold;
+}
